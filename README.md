@@ -24,3 +24,9 @@ Para a construção deste sistema, foram utilizados conceitos fundamentais da Or
 - `Cofrinho.java`: Gerencia a coleção de moedas usando um `ArrayList`.
 - `Moeda.java`: Classe abstrata base. Utiliza o método `equals` sobrescrito para permitir a correta remoção de objetos da lista.
 - `Real.java`, `Dolar.java`, `Euro.java`: Classes filhas com suas respectivas taxas de conversão (câmbio).
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório na sua máquina local:
+   ```bash
+   git clone <link-do-seu-repositorio-aqui>
